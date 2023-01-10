@@ -8,3 +8,6 @@ dashboard on this and says the data is currently stored in an excel sheet.
 
 Please visit my profile on tableau public to see more:
 https://public.tableau.com/app/profile/jeff.chery#!/?newProfile=&activeTab=0
+
+
+link to view the clean excel sheet: https://1drv.ms/x/s!AqXe0oubLSz38yMH4arBspKEztNz?e=Bg1ZzQ
